@@ -142,7 +142,7 @@ Designed Power BI sales dashboards and Python ETL pipelines. Earned Spot & Impac
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cherubinoo&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com/?user=Cherubinoo&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 <br/>
 
@@ -171,8 +171,8 @@ Designed Power BI sales dashboards and Python ETL pipelines. Earned Spot & Impac
 <a href="https://github.com/Cherubinoo/code2day">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=code2day&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 </a>
-<a href="https://github.com/Cherubinoo/ramco-cements">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=ramco-cements&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
+<a href="https://github.com/Cherubinoo/helmet-det">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=helmet-det&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 </a>
 <br/>
 <a href="https://github.com/Cherubinoo/execute-4.o">
