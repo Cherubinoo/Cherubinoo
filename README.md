@@ -1,143 +1,175 @@
+# Delight Cherubino | AI Engineer
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Delight%20Cherubino&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20LLM%20Fine-Tuning%20%26%20GenAI%20Engineering&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 
-<a href="https://github.com/Cherubinoo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Fine-tuning+LLMs+with+LoRA+%2F+PEFT+%2F+RAG;Built+Code2Day+%E2%80%94+acquired+by+QuBrain.ai;YOLOv8+%7C+PyTorch+%7C+ONNX+%7C+Docker+%7C+Ollama" alt="Typing SVG" />
-</a>
+### Building AI systems that solve real-world problems.
 
-<br/>
+**GenAI · LLM Engineering · Machine Learning · Full-Stack AI**
 
-<a href="https://delightcherubino.com"><img src="https://img.shields.io/badge/Portfolio-delightcherubino.com-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/delight-cherubino-bb8456291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:delightcherubino@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Cherubinoo&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+<a href="https://delightcherubino.com">Portfolio</a> • <a href="https://www.linkedin.com/in/delight-cherubino-bb8456291/">LinkedIn</a> • <a href="mailto:delightcherubino@gmail.com">Email</a> • <a href="https://github.com/Cherubinoo">GitHub</a>
+
+<img src="https://komarev.com/ghpvc/?username=Cherubinoo&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-## About Me
+## `$ whoami`
 
-```yaml
-name: "Delight Cherubino"
-location: "Munnar, Kerala, India"
-role: "AI & Data Science Practitioner"
-education: "B.Tech, Artificial Intelligence & Data Science - Ramco Institute of Technology (2023-2027)"
-specialties:
-  - "LLM fine-tuning (LoRA, PEFT, SFT) & quantization (GGUF, AWQ)"
-  - "RAG architecture design & prompt engineering"
-  - "Computer vision (YOLOv8) for real-time industrial inference"
-  - "Full-stack GenAI product engineering"
-highlight: "Built Code2Day solo -> 56+ deployments -> 550+ active users -> acquired by QuBrain.ai"
+```python
+class AIEngineer:
+    name = "Delight Cherubino"
+    education = "B.Tech AI & Data Science"
+    university = "Ramco Institute of Technology"
+    graduation = 2027
+
+    interests = [
+        "Generative AI & LLM Engineering",
+        "LLM Fine-Tuning & RAG",
+        "Computer Vision",
+        "AI Product Engineering",
+        "Scalable Backend Systems"
+    ]
+
+    philosophy = "Build AI that works beyond the demo."
 ```
 
-<br/>
+I am an AI & Data Science engineer focused on building production-ready AI applications, intelligent systems, and scalable software products.
 
-## Experience
+My experience spans LLM-powered applications, computer vision systems deployed in industrial environments, and full-stack platforms used by real users.
 
-<table>
-<tr>
-<td width="80px" align="center">🏭</td>
-<td>
+I enjoy taking ideas from research and experimentation to deployment, optimization, and real-world adoption.
 
-**ML Intern — Cement Bag Counting System**
-*The Ramco Cements Limited, Ariyalur* · Jan 2025 – Dec 2025
-Engineered a custom YOLOv8 model (97.5% accuracy) end-to-end — annotation, augmentation, hyperparameter tuning. Optimized inference with ONNX Runtime for real-time edge processing and built a PyQt5 inventory dashboard for plant leadership.
+---
 
-</td>
-</tr>
-<tr>
-<td align="center">📹</td>
-<td>
-
-**AI & ML Intern — People Counting & Security System**
-*The Ramco Cements Limited, Ariyalur* · Apr 2024 – Jul 2024
-Deployed object detection on multi-camera RTSP feeds using Python multithreading for concurrent batch inference. Authored runbooks and deployment guides for plant engineering teams.
-
-</td>
-</tr>
-<tr>
-<td align="center">📊</td>
-<td>
-
-**Data Analyst**
-*Igress Solutions (Remote)* · Nov 2023 – Dec 2023
-Designed Power BI sales dashboards and Python ETL pipelines. Earned Spot & Impact Awards in month one.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Project — Code2Day
+## `$ impact --highlights`
 
 <div align="center">
 
-**A high-concurrency learning platform, built solo, acquired by QuBrain.ai**
+| | |
+|:---:|:---|
+| 🚀 | **Code2Day** — Built independently and acquired by QuBrain.ai |
+| 🏭 | **97.5% accuracy** — YOLOv8-based industrial cement bag counting |
+| 👨‍💻 | **550+ users** — Code2Day platform serving students and staff |
+| 🧠 | **LLM Engineering** — Building AI-powered question generation systems |
+| 🥇 | **National Hackathon Winner** — Best Team Award |
+
+</div>
+
+---
+
+## `$ experience`
+
+### AI & ML Intern — The Ramco Cements Limited
+
+**Jan 2025 – Dec 2025**
+
+- Engineered a YOLOv8-based cement bag counting system for industrial inventory monitoring.
+- Achieved 97.5% accuracy through dataset annotation, augmentation, and model optimization.
+- Optimized model inference using ONNX Runtime for edge deployment.
+- Developed a PyQt5 dashboard for monitoring and inventory visibility.
+
+### AI & ML Intern — The Ramco Cements Limited
+
+**Apr 2024 – Jul 2024**
+
+- Developed people counting and security systems using computer vision.
+- Implemented concurrent inference on multi-camera RTSP feeds using Python multithreading.
+- Created deployment documentation and runbooks for engineering teams.
+
+### Data Analyst — Igress Solutions
+
+**Nov 2023 – Dec 2023**
+
+- Built Power BI sales dashboards and Python ETL pipelines.
+- Received Spot and Impact Awards during the first month.
+
+---
+
+## `$ featured_project --code2day`
+
+<div align="center">
+
+<a href="https://github.com/Cherubinoo/code2day">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=code2day&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
+
+</a>
+
+**An independently built competitive programming platform acquired by QuBrain.ai.**
+
+</div>
+
+### Engineering highlights
+
+- Built a full-stack competitive programming platform using React, Django, PostgreSQL, Redis, and Docker.
+- Developed a Docker-isolated code execution environment supporting multiple programming languages.
+- Engineered AI-powered question generation using Llama 3 8B and Ollama.
+- Designed platform infrastructure for concurrent users and automated deployments.
+- Implemented anti-cheat mechanisms and performance analytics.
+
+### Technology
 
 `React` `Django` `PostgreSQL` `Redis` `Docker` `Ollama` `PyTorch`
 
-</div>
+---
 
-- 🚀 56+ deployments serving 550+ active students and staff
-- 🧠 Fine-tuned open-source **Llama 3 8B** via Ollama/PyTorch for automated domain-specific question generation with structured JSON validation
-- 🐳 Docker-isolated code execution sandboxes across 6 languages, supporting 320+ concurrent users with custom prompt-engineering guardrails
-- 📝 Authored LMS runbooks, model evaluation reports, and anti-cheat detection algorithms
-
-<br/>
-
-## Tech Stack
+## `$ current_focus`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,react,django,fastapi,postgres,redis,docker,aws,nginx&theme=dark&perline=6"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=LLM+Fine-Tuning+%26+PEFT;Retrieval-Augmented+Generation;GenAI+Application+Engineering;Production+ML+%26+Inference+Optimization" alt="Current focus"/>
 
 </div>
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
+| Domain | Areas of focus |
+|---|---|
+| LLM Engineering | LoRA, PEFT, SFT, quantization |
+| Generative AI | RAG, prompt engineering, structured generation |
+| Computer Vision | YOLOv8, OpenCV, ONNX Runtime |
+| AI Infrastructure | Docker, model serving, inference optimization |
+| Product Engineering | Full-stack AI applications, scalable APIs |
 
-**LLM Engineering & GenAI**
-- LoRA, PEFT, SFT fine-tuning
-- Quantization: GGUF, AWQ
-- RAG · Prompt Engineering
-- Ollama · Llama 3 · AWS Bedrock
-- Vector Databases
+---
 
-</td>
-<td valign="top" width="33%">
-
-**Machine Learning & CV**
-- YOLOv8 · ByteTrack
-- PyTorch · TensorFlow
-- ONNX Runtime · OpenCV
-- Dataset Annotation & Augmentation
-- Scikit-learn
-
-</td>
-<td valign="top" width="34%">
-
-**Full-Stack & DevOps**
-- Python · SQL · React
-- Django · FastAPI
-- PostgreSQL · Redis
-- Docker · CI/CD · Nginx
-- Power BI
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## GitHub Analytics
+## `$ tech_stack`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cherubinoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,react,django,fastapi,postgres,redis,docker,aws,nginx&theme=dark&perline=6"/>
+
+</div>
+
+### AI / Machine Learning
+
+`PyTorch` `TensorFlow` `Scikit-learn` `YOLOv8` `ONNX Runtime` `OpenCV`
+
+### GenAI / LLM
+
+`Llama` `Ollama` `AWS Bedrock` `RAG` `LoRA` `PEFT` `SFT` `GGUF`
+
+### Backend / Database
+
+`Python` `Django` `FastAPI` `PostgreSQL` `Redis` `SQL`
+
+### Infrastructure
+
+`Docker` `AWS` `Nginx` `GitHub Actions` `CI/CD`
+
+### Analytics
+
+`Power BI` `Pandas` `NumPy`
+
+---
+
+## `$ github --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cherubinoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherubinoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 
 <br/>
@@ -150,60 +182,63 @@ Designed Power BI sales dashboards and Python ETL pipelines. Earned Spot & Impac
 
 </div>
 
-<br/>
+---
 
-## Contribution Snake
+## `$ contribution --snake`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cherubinoo/Cherubinoo/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Generated by the included GitHub Action — see setup note below.</sub>
+<img src="https://raw.githubusercontent.com/Cherubinoo/Cherubinoo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
-<br/>
+---
 
-## Pinned Repositories
+## `$ repositories --featured`
 
 <div align="center">
 
 <a href="https://github.com/Cherubinoo/code2day">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=code2day&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 </a>
+
 <a href="https://github.com/Cherubinoo/helmet-det">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=helmet-det&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 </a>
-<br/>
+
 <a href="https://github.com/Cherubinoo/execute-4.o">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=execute-4.o&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 </a>
+
 <a href="https://github.com/Cherubinoo/munnar.me">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cherubinoo&repo=munnar.me&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 </a>
 
 </div>
 
-<br/>
+---
 
-## Achievements
+## `$ achievements`
 
-- 🥇 **1st Prize, National Paper Presentation** — Francis Xavier Engineering College: research on deep learning for cancer differentiation
-- 🏆 **Best Team Award (Lead)** — National AI Innovate Hackathon: led production LLM solution design, prompt engineering & pitch
-- 🎯 **Finalist, HACKODESY 2k25** — Kalasalingam University
+- 🥇 **1st Prize — National Paper Presentation**  
+  Francis Xavier Engineering College — Deep learning research on cancer differentiation.
 
-<br/>
+- 🏆 **Best Team Award — National AI Innovate Hackathon**  
+  Led AI solution design, prompt engineering, and technical presentation.
 
-## Let's Connect
+- 🎯 **Finalist — HACKODESY 2k25**  
+  Kalasalingam University.
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/delight-cherubino-bb8456291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:delightcherubino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://delightcherubino.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+### Let's build something intelligent.
+
+**AI · Research · Engineering · Products**
+
+<a href="https://delightcherubino.com">Portfolio</a> • <a href="https://www.linkedin.com/in/delight-cherubino-bb8456291/">LinkedIn</a> • <a href="mailto:delightcherubino@gmail.com">Contact</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:2c5364&height=100&section=footer"/>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
